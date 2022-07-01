@@ -1,11 +1,17 @@
 Code Book for the dataset contained in tidydata.txt (read README.txt for more information)
 
 Column number(s): Variable
+
 1: Subject
+
 	The id number of each subject
+	
 		values range from 1 to 30
+		
 2: Activity
+
 	The activity performed while measurements were taken
+	
 		1. walking
 		2. walking upstairs
 		3. walking downstairs
