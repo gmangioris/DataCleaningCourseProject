@@ -21,7 +21,8 @@ Column number(s): Variable
 
 3 to 81: Contain either the mean or standard deviation of each measured variable for each activity and each subject
 
-	Names of the columns are as follows:
+Names of the columns are as follows:
+	
 [3] "tBodyAcc-mean()-X"               "tBodyAcc-mean()-Y"              
 [5] "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"               
 [7] "tBodyAcc-std()-Y"                "tBodyAcc-std()-Z"               
